@@ -1,0 +1,2 @@
+DIARETDB1.zip filter=lfs diff=lfs merge=lfs -text
+DIARETDB1_compressed.zip filter=lfs diff=lfs merge=lfs -text
